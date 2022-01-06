@@ -1,0 +1,148 @@
+body{
+    font-family: 'BioRhyme', serif;
+
+    font-family: 'Luxurious Roman', cursive;
+}
+h1{
+    font-size: 50px;
+}
+.font{
+    font-size: 40px;
+}
+.bordre{
+    border-left: 4px solid;
+    border-image: linear-gradient(tomato, red) 30;
+    border-radius: 1%;
+}
+.color-head{
+    color: forestgreen;
+}
+.flix{
+    display: flex;
+}
+.half-dis{
+    width: 50%;
+    padding: 5%;
+    text-align: justify;
+}
+.half-dis img{
+    width: 80%;
+}
+.button-color{
+    text-decoration: none;
+    background-image: linear-gradient(red, tomato);
+    padding: 10px 30px;
+    font-weight: 700;
+    color: white;
+    border-radius: 5px;
+    
+}
+.new-color{
+    color: orangered;
+    
+}
+.text-cenrer{
+    text-align: center;
+}
+.display-fix{
+    display: flex;
+}
+.display-fix img{
+    width: 45%;
+}
+.half-fix{
+    background-color:rgb(148, 181, 207) ;
+    width: 85%;
+    margin-left: 3%;
+    margin-right: 2%;
+    padding: 1%;
+    border-radius: 18px;
+    box-shadow: 10px 20px 40px rgba(26, 80, 87, 0.548);
+
+}
+.half-fixe{
+    background-color: rgb(238, 230, 230);
+    width: 85%;
+    margin-left: 2%;
+    margin-right: 2%;
+    padding: 1%;
+    border-radius: 18px;
+    box-shadow: 10px 20px 40px rgba(26, 80, 87, 0.548);
+
+}
+.display-flx{
+    display: flex;
+}
+.half-fixed{
+    background-color: rgb(153, 204, 226);
+    width: 85%;
+    margin-left: 2%;
+    margin-right: 3%;
+    padding: 1%;
+    border-radius: 18px;
+    box-shadow: 10px 20px 40px rgba(26, 80, 87, 0.548);
+
+}
+.change img{
+    width: 80%;
+    padding: 15%;
+    border-radius:38% 10%;
+    background-image: ;
+}
+.banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 40% 50%;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.half-boder{
+    width: 60%;
+    padding: 5%;
+    margin-left: 5%;
+
+}
+.imges img{
+    width: 60%;
+    padding: 1%;
+    margin-left: 25%;
+
+}
+.imges{
+    background-image: url(images/shapes/shape-1.png);
+    background-size: 40% 50%;
+    background-repeat: no-repeat;
+    background-position: right;
+
+}
+.cntr-haddimg{
+    text-align: center;
+}
+.enemy{
+    color: tomato;
+}
+.half-diff img{
+    width: 50%;
+    margin-left: 25%;
+    background-image: url(images/shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-size: 20% 30%;
+
+
+}
+
+.half-differ{
+    width: 80%;
+    padding: 5%;
+    text-align: justify;
+}
+.col{
+    color: rgb(212, 126, 45);
+}
+.clr{
+    color: tomato;
+}
+.footer-center{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
